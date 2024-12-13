@@ -103,7 +103,7 @@
 
   <section id="plagiarism">
     <h2>The Shadow of Plagiarism</h2>
-    <img src="/plagiarism.png/imgposter.png"
+    <img src="images (1).png"
     width="500px" height="300px">
     <table>
       <thead>
