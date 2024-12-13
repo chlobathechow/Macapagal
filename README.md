@@ -65,7 +65,7 @@
     <h1>Macapagal, John Myko</h1>
     <h2>E2 - Computer</h2>
     <audio controls>
-      <source src="/lost-in-dreams-abstract-chill-downtempo-cinematic-future-beats-270241.mp3" type="audio/mpeg">
+      <source src="lost-in-dreams-abstract-chill-downtempo-cinematic-future-beats-270241.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </header>
